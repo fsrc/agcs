@@ -1,0 +1,29 @@
+{
+  "name": "agcs",
+  "version": "0.0.1",
+  "description": "Another Garmin Connect Scraper",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "bin": "bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "garmin",
+    "garmin connect",
+    "scraper"
+  ],
+  "author": "Fredrik Andersson",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@3846masa/axios-cookiejar-support": "0.0.4",
+    "async-ls": "0.0.3",
+    "axios": "^0.16.2",
+    "livescript": "^1.5.0",
+    "prelude-ls": "^1.1.2",
+    "querystring": "0.2.0",
+    "yargs": "^8.0.2"
+  }
+}

@@ -15,6 +15,10 @@
     "garmin connect",
     "scraper"
   ],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/fsrc/agcs"
+  },
   "author": "Fredrik Andersson",
   "license": "BSD-3-Clause",
   "dependencies": {

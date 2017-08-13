@@ -1,6 +1,12 @@
 # AGCS
 Another Garmin Connect Scraper connects to connect.garmin.com and downloads one or more acitivites stored on the site. This makes is possible for you to more easily extract your tracked activities for other usage. The code is written in LiveScript for Node.JS and is tested with node 8.2.1.
 
+ * This project is not finished. 
+ * There are random bugs in downloading of data.
+ * It only downloads TCX-files as of now.
+
+Please feel free to post pull requests on anything that you have corrected.
+
 ## Getting started
 Follow these instructions to get it up and running. 
 
